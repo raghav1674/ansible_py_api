@@ -1,0 +1,16 @@
+{
+  "TOWER_BASE_URL": "<TOWER_BASE_URL>",
+  "VERIFY_SSL": false,
+  "AUTHENTICATION_TYPE": "Basic",
+  "TOWER_CREDENTIALS": {
+    "Basic": {
+      "USERNAME": "<USERNAME>",
+      "PASSWORD": "<PASSWORD>"
+    },
+    "OAuth": {
+      "USERNAME": "<CLIENT_ID>",
+      "PASSWORD": "<CLIENT_SECRET>",
+      "REDIRECT_URI": "<REDIRECT_URI>"
+    }
+  }
+}
